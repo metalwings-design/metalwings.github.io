@@ -13,6 +13,7 @@ Applied Economist and Data Analyst with experience in econometrics, spatial anal
 - Econometrics & Causal Inference
 - Data Analysis & Visualization
 - Spatial Analysis (QGIS)
+- Data scraping
 
 ## Contact
 - Email: sanket.gharat@hotmail.com
